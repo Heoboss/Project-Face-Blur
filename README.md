@@ -117,7 +117,8 @@ python 4_run_blurring.py
 ```
 
 **3. 결과 확인**
-  * 모든 과정이 끝나면 `video_files/` 폴더에 `output_blurred.mp4` 파일이 생성됩니다.
+  * 모든 과정이 끝나면 `video_files/` 폴더에 `output_blurred.mp4` 파일이 생성됩니다.  
+  <img width="849" height="328" alt="image" src="https://github.com/user-attachments/assets/b0b7182d-000e-4aad-8af5-06e81330805e" />
 
 <br>
 
