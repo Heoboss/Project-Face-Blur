@@ -13,9 +13,11 @@
 > 💡 **팀원을 제외한 일반인은 Blur 처리된 모습을 확인할 수 있습니다.**
 
 <img width="638" height="356" alt="결과사진1" src="https://github.com/user-attachments/assets/84505f96-77b1-4bb2-9e6e-2e20cb2619c7" />
-<img width="639" height="352" alt="결과사진2" src="https://github.com/user-attachments/assets/17dfb41b-4975-44aa-be90-1207c3d264de" />
+<img width="639" height="352" alt="결과사진2" src="https://github.com/user-attachments/assets/17dfb41b-4975-44aa-be90-1207c3d264de" />  
+
 
 > 💡 **배우 이병헌씨의 얼굴을 학습한 후 유퀴즈 프로그램의 일부분에 적용한 모습입니다.**
+
 ![cut편집본](https://github.com/user-attachments/assets/575642d4-3a2f-4750-9348-1fb1edaae038)
 
 
