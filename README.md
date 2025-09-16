@@ -54,7 +54,7 @@
 
 ## 3. 프로젝트 구조
 
-* 📁 **Project-Face-Blur/**
+* 📁 **face-blurring-project/**
     * 📁 **input_original_images/** - (사용자 입력) 원본 인물 사진 저장
         * 📁 **person_A/** - 등록할 사용자(블러 처리 대상) 사진
         * 📁 **unknown/** - 미등록 사용자(블러 처리 안 할 대상) 사진
